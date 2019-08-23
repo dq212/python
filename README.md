@@ -13,6 +13,7 @@ Run in your terminal.
 
 
 CONVERT XLS DATA TO JSON DATA
+
 Wanted to put up data into my Firestore/Firebase. Firestore takes in a whole file. Using the Firesbase-CLI (https://firebase.google.com/docs/cli) I uploaded my converted data.
 
 
